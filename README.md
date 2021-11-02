@@ -11,7 +11,7 @@ The first task was to set up a new column and parse the year from the Date Creat
 
 The second assignment asked an illustration of the outcomes of plays based on the goal amount. Beginning with a new spreadsheet, columns displayed the number of each outcome and the percentage of total outcome for the row that that was broken down in to various increments. To find the number of successful, failed, and canceled outcomes a `COUNTIFS()` statement was needed. Counting the number of each outcome based on the range of the goal for each row. Then using `SUM()` to find the total number of project for each goal interval. The last step was finding the percentage of the total projects each outcome had per goal range. Once completed the chart below was created.
 
-![Outcomes Based on Goal](https://github.com/racruz25/Kickstarter-Challenge/blob/main/Resources/Outcomes_vs_Goals.png)
+![Outcomes Based on Goal](https://github.com/racruz25/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
 
 ## Results
 Two conclusions drawn in Theater  is apparent that there is mostly a rise in successful campaigns that peaks in May and trends downward through the remainder of the year. Also that number of failed campaigns stays someone consistent throught the year.
